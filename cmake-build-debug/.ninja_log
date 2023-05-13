@@ -1,0 +1,7 @@
+# ninja log v5
+12	617	7037035194053902	CMakeFiles/H__Two_numbers.dir/H._Two_numbers.cpp.obj	5c5a6590e9d6942e
+3	616	7037035194043100	CMakeFiles/H__Two_numbers.dir/main.cpp.obj	2c724a5a57995d88
+2	172	7037035539903175	H__Two_numbers.exe	e035b9aea23f370
+0	267	7037036266474480	build.ninja	77f78c544fb2dd40
+2	388	7037036424953770	CMakeFiles/H__Two_numbers.dir/main.cpp.obj	2c724a5a57995d88
+388	521	7037036426238604	H__Two_numbers.exe	e035b9aea23f370
